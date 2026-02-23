@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app, origins=["https://smart-incrident-analyzer.vercel.app", "http://localhost:3000", "*"])
+CORS(app, origins=["https://smart-incrident-analyzer.vercel.app", "http://localhost:5173", "http://localhost:3000", "*"])
 
 # ─── Load model and tokenizer ───────────────────────────────────────────────
 print("Loading model and tokenizer...")
@@ -83,6 +83,83 @@ def classify_product_risk(final_score):
 @app.route("/", methods=["GET"])
 def health():
     return jsonify({"status": "ok", "message": "Ingredient IQ API is running 🚀"})
+
+
+@app.route("/predict", methods=["POST"])
+def predict():
+    """
+    POST body (JSON):
+    {
+        "ingredients": ["Water", "Parabens", "Unknown Chemical X"]
+    }
+    
+    Returns analysis results.
+    """
+    try:
+        data = request.get_json(force=True)
+        ingredients_raw = data.get("ingredients", [])
+
+        if not ingredients_raw:
+            return jsonify({"error": "No ingredients provided"}), 400
+
+        # Normalize input
+        ingredients = [i.strip() for i in ingredients_raw if isinstance(i, str) and i.strip()]
+
+        if not ingredients:
+            return jsonify({"error": "No valid ingredient names found"}), 400
+
+        results = []
+        harm_scores = []
+
+        for name in ingredients:
+            # ── Look up in dataset ──────────────────────────────────────────
+            match = df_ingredients[
+                df_ingredients["Ingredient_Name"].str.lower() == name.lower()
+            ]
+
+            if not match.empty:
+                row = match.iloc[0]
+                score = float(row["Harmfulness_Score"])
+                effect = str(row["Effect_On_Human_Body"])
+                source = "dataset"
+            else:
+                # ── Predict for unknown ingredient ──────────────────────────
+                effect = "Unknown compound with uncertain biological activity."
+                score = predict_harm_score(effect)
+                source = "predicted"
+
+            harm_scores.append(score)
+            results.append(
+                {
+                    "name": name,
+                    "effect": effect,
+                    "score": round(score, 2),
+                    "source": source,
+                    "risk_level": classify_product_risk(score),
+                }
+            )
+
+        # ── Product-level scores ───────────────────────────────────────────
+        avg_score, max_score, final_score = calculate_product_scores(harm_scores)
+        classification = classify_product_risk(final_score)
+
+        high_risk = [r for r in results if r["score"] >= 7]
+
+        return jsonify(
+            {
+                "ingredients": results,
+                "product_summary": {
+                    "average_score": round(avg_score, 2),
+                    "maximum_score": round(max_score, 2),
+                    "final_score": round(final_score, 2),
+                    "classification": classification,
+                    "high_risk_ingredients": high_risk,
+                },
+            }
+        )
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 
 @app.route("/analyze", methods=["POST"])

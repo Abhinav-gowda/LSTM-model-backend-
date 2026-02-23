@@ -1,0 +1,430 @@
+Ingredient_Name,Harmfulness_Score,Effect_On_Human_Body
+Water,1,Safe solvent used as a base for dissolving other ingredients
+Glycerin,1,Hydrates skin and helps maintain moisture balance
+Xanthan Gum,1,Natural thickener; non-toxic and skin-safe
+Carbomer,1,Thickening agent; generally safe for topical use
+Sodium Gluconate,1,Chelating agent that improves product stability
+Citric Acid,2,pH adjuster; may cause mild irritation on very sensitive skin
+Sodium Chloride,2,Thickener; excessive amounts may cause dryness
+Sodium Lauroyl Lactylate,2,Mild surfactant that supports skin barrier function
+Cholesterol,2,Supports skin barrier and moisture retention
+Ceramide NP,2,Helps restore and protect the skin barrier
+Ceramide AP,2,Improves skin hydration and resilience
+Ceramide EOP,2,Strengthens skin’s protective layer
+Phytosphingosine,2,Supports skin barrier and has antimicrobial benefits
+Helianthus Annuus (Sunflower) Seed Oil,2,Nourishes skin and provides antioxidant benefits
+Lens Esculenta (Lentil) Seed Extract,2,Provides conditioning and antioxidant properties
+Hydrolyzed Cicer Seed Extract,2,Strengthens hair and improves texture
+Chenopodium Quinoa Seed Extract,2,Rich in amino acids; nourishes hair and skin
+Prunus Armeniaca (Apricot) Kernel Oil,2,Softens skin and improves moisture retention
+Sodium Benzoate,3,Preservative; safe at low concentrations
+Sodium Hydroxide,3,pH adjuster; can irritate if improperly balanced
+PEG-45M,3,Thickener; generally safe but may enhance ingredient penetration
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning agent; low irritation risk
+Mica,3,Cosmetic pigment; inhalation risk in powder form only
+Titanium Dioxide,3,UV filter and colorant; safe in topical products
+Cocamidopropyl Betaine,5,Mild surfactant; may cause allergic reactions in sensitive skin
+Sodium Laureth Sulfate,7,Can strip natural oils and cause skin or scalp irritation
+Cocamide MEA,6,Foam booster; may cause irritation with prolonged exposure
+Glycol Distearate,4,Opacifying agent; low health risk
+Dimethiconol,3,Silicone that smooths hair; non-toxic but non-biodegradable
+Trideceth-10,4,Emulsifier; may increase skin penetration of other chemicals
+TEA-Dodecylbenzenesulfonate,8,Strong surfactant; high irritation potential
+Amodimethicone,3,Conditioning silicone; low direct toxicity
+Cetrimonium Chloride,6,Antistatic agent; toxic if ingested and irritating at high levels
+Trideceth-12,4,Emulsifier; moderate irritation risk
+Acrylates/Beheneth-25 Methacrylate Copolymer,5,Film-former; low toxicity but poor biodegradability
+Styrene/Acrylates Copolymer,6,Synthetic polymer; potential environmental and skin concerns
+Disodium EDTA,4,Chelating agent; can enhance absorption of other chemicals
+Fragrance,8,Common cause of allergic reactions and skin sensitivity
+Alpha-Isomethyl Ionone,7,Fragrance allergen; may cause skin sensitization
+Citronellol,7,Fragrance allergen linked to irritation
+Coumarin,7,Potential allergen; may cause skin reactions
+Geraniol,7,Fragrance compound; known skin sensitizer
+Linalool,7,Fragrance allergen that oxidizes and irritates skin
+Water,1,Safe solvent used as the base of most personal care products
+Citric Acid,2,Adjusts pH; may cause mild irritation on sensitive skin
+Sodium Citrate,2,Buffering agent that helps maintain product pH
+Sodium Chloride,2,Thickener; excessive use may dry skin or scalp
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning agent; low irritation risk
+Sodium Benzoate,3,Preservative; safe at regulated concentrations
+Dimethicone,3,Silicone that smooths hair and reduces moisture loss
+Glycol Distearate,4,Opacifying agent; low health risk
+Cocamidopropyl Betaine,5,Mild surfactant; may cause allergic reactions in sensitive users
+Sodium Xylenesulfonate,6,Surfactant that can increase skin irritation
+Cocamide MEA,6,Foam booster; prolonged exposure may cause irritation
+Benzyl Alcohol,6,Preservative and fragrance component; may irritate skin
+Sodium Laureth Sulfate,7,Can strip natural oils and irritate skin or scalp
+Fragrance,8,Common allergen; may cause irritation or sensitization
+Climbazole,8,Antifungal agent; may cause irritation with prolonged use
+Sodium Lauryl Sulfate,9,Strong surfactant; high risk of skin and eye irritation
+Water,1,Safe solvent and base for cosmetic formulations
+Citric Acid,2,pH adjuster; may mildly irritate sensitive skin
+Sodium Citrate,2,Buffering agent that stabilizes product acidity
+Sodium Chloride,2,Thickener; high amounts may dry skin or scalp
+Dimethicone,3,Silicone that smooths hair and reduces moisture loss
+Dimethiconol,3,Conditioning silicone; low direct toxicity
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning polymer; low irritation risk
+Sodium Benzoate,3,Preservative; safe at regulated concentrations
+Trideceth-10,4,Emulsifier; may increase skin penetration
+Glycol Distearate,4,Opacifying agent; low health concern
+Propylene Glycol,4,Humectant; may cause irritation in sensitive skin
+Tetrasodium EDTA,4,Chelating agent; can enhance absorption of other chemicals
+Cocamidopropyl Betaine,5,Mild surfactant; may cause allergic reactions
+Sodium Xylenesulfonate,6,Surfactant that increases skin irritation risk
+Piroctone Olamine,6,Antifungal agent; may irritate with prolonged exposure
+Fragrance,8,Common allergen; may cause skin sensitization
+Sodium Laureth Sulfate,7,Can strip natural oils and irritate skin
+Sodium Lauryl Sulfate,9,Strong surfactant; high irritation potential
+TEA-Dodecylbenzenesulfonate,8,Harsh surfactant; high irritation risk
+Hexyl Cinnamal,7,Fragrance allergen; can cause skin sensitivity
+Linalool,7,Fragrance allergen; oxidizes and irritates skin
+Methylchloroisothiazolinone,10,Strong preservative; high risk of allergic reactions
+Methylisothiazolinone,10,Potent allergen linked to contact dermatitis
+CI 42090,5,Synthetic dye; may cause irritation in sensitive users
+CI 17200,5,Artificial colorant; low toxicity but allergy risk
+Water,1,Safe solvent and base ingredient in cosmetic products
+Citric Acid,2,pH adjuster; may mildly irritate sensitive skin
+Sodium Chloride,2,Thickener; excessive amounts may cause dryness
+Lysine HCL,2,Amino acid that supports hair and skin conditioning
+Hydrolyzed Milk Protein,2,Strengthens hair and improves moisture retention
+Niacinamide,2,Supports skin barrier and improves scalp health
+Pyridoxine HCL,2,Vitamin B6 derivative; supports skin metabolism
+Sodium Ascorbyl Phosphate,2,Vitamin C derivative with antioxidant benefits
+Tocopheryl Acetate,2,Vitamin E derivative; protects from oxidative damage
+Dimethiconol,3,Conditioning silicone; low direct toxicity
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning polymer; low irritation risk
+PEG-45M,3,Thickener; generally safe but increases penetration
+Carbomer,3,Thickening agent; safe for topical application
+Sodium Hydroxide,3,pH adjuster; irritating if not properly balanced
+Disodium EDTA,4,Chelating agent; may enhance chemical penetration
+Glycol Distearate,4,Opacifying agent; low health concern
+Cocamidopropyl Betaine,5,Mild surfactant; may cause allergic reactions
+Sodium Laureth Sulfate,7,Can strip natural oils and irritate scalp
+Cocamide MEA,6,Foam booster; prolonged exposure may irritate skin
+TEA-Dodecylbenzenesulfonate,8,Harsh surfactant with high irritation potential
+Perfume (Fragrance),8,Common allergen; may cause skin sensitization
+Mica,3,Cosmetic pigment; inhalation risk only in powder form
+Titanium Dioxide,3,Colorant and UV filter; safe in topical use
+DMDM Hydantoin,9,Formaldehyde-releasing preservative; allergenic
+Methylchloroisothiazolinone,10,Potent preservative; high risk of contact dermatitis
+Methylisothiazolinone,10,Strong allergen linked to skin sensitization
+Linalool,7,Fragrance allergen that oxidizes and irritates skin
+Hexyl Cinnamal,7,Fragrance allergen; may trigger skin reactions
+Benzyl Benzoate,6,Fragrance component; may cause irritation
+Coumarin,7,Fragrance allergen; sensitization risk
+CI 42090,5,Synthetic dye; may irritate sensitive skin
+Water,1,Safe solvent and base ingredient in cosmetic products
+Sodium Chloride,2,Thickener; high concentrations may dry skin or scalp
+Citric Acid,2,pH adjuster; may cause mild irritation on sensitive skin
+Hydrolyzed Keratin,2,Strengthens hair structure and reduces breakage
+Argania Spinosa (Argan Oil) Kernel Oil,2,Nourishes hair and skin; rich in antioxidants
+Carbomer,3,Thickening agent; generally safe for topical use
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning polymer; low irritation risk
+Dimethiconol,3,Conditioning silicone; low toxicity and smooths hair
+Amodimethicone,3,Silicone conditioner; improves hair manageability
+Titanium Dioxide,3,Colorant and UV filter; safe in topical application
+Mica,3,Cosmetic pigment; safe for skin use
+Glycol Distearate,4,Opacifying agent; low health concern
+Trideceth-10,4,Emulsifier; may increase skin permeability
+Trideceth-12,4,Emulsifier; moderate irritation risk
+Disodium EDTA,4,Chelating agent; can enhance penetration of other chemicals
+Cocamidopropyl Betaine,5,Mild surfactant; may cause irritation in sensitive individuals
+Cetrimonium Chloride,6,Conditioning agent; irritating at higher concentrations
+Sodium Hydroxide,6,pH adjuster; corrosive if not properly balanced
+Sodium Laureth Sulfate,7,Can strip natural oils and irritate scalp and skin
+Perfume (Fragrance),8,Common allergen; may cause skin sensitization
+TEA-Dodecylbenzenesulfonate,8,Harsh surfactant with high irritation potential
+DMDM Hydantoin,9,Formaldehyde-releasing preservative; allergenic risk
+Water,1,Safe solvent and base ingredient in cosmetic formulations
+Sodium Chloride,2,Thickener; excessive amounts may dry scalp
+Citric Acid,2,pH adjuster; may mildly irritate sensitive skin
+Hydrolyzed Keratin,2,Strengthens hair and reduces breakage
+Argania Spinosa (Argan Oil) Kernel Oil,2,Nourishes hair and adds softness and shine
+Carbomer,3,Thickening agent; generally safe for topical use
+Guar Hydroxypropyltrimonium Chloride,3,Conditioning polymer; low irritation risk
+Dimethiconol,3,Conditioning silicone; smooths hair and reduces frizz
+Amodimethicone,3,Silicone conditioner; improves hair manageability
+Mica,3,Cosmetic pigment; safe for skin use
+Titanium Dioxide,3,Colorant and UV filter; safe in topical products
+Glycol Distearate,4,Opacifying agent; low health concern
+Trideceth-10,4,Emulsifier; may increase skin permeability
+Trideceth-12,4,Emulsifier; moderate irritation risk
+Disodium EDTA,4,Chelating agent; can enhance absorption of chemicals
+Cocamidopropyl Betaine,5,Mild surfactant; may cause irritation in sensitive users
+Cetrimonium Chloride,6,Conditioning agent; irritating at higher concentrations
+Sodium Hydroxide,6,pH adjuster; corrosive if improperly balanced
+Sodium Laureth Sulfate,7,Can strip natural oils and irritate scalp
+Perfume (Fragrance),8,Common allergen; may cause skin sensitization
+TEA-Dodecylbenzenesulfonate,8,Harsh surfactant with high irritation potential
+Benzyl Salicylate,7,Fragrance allergen; may trigger skin reactions
+Linalool,7,Fragrance allergen that oxidizes and irritates skin
+Citronellol,7,Fragrance allergen linked to skin sensitivity
+Alpha-Isomethyl Ionone,7,Fragrance allergen; sensitization risk
+Hexyl Cinnamal,7,Fragrance allergen; may cause irritation
+DMDM Hydantoin,9,Formaldehyde-releasing preservative; allergenic risk
+Methylchloroisothiazolinone,10,Potent preservative; high risk of contact dermatitis
+Methylisothiazolinone,10,Strong allergen linked to skin sensitization
+Water,1,Safe solvent and base ingredient in formulations
+Glycerin,1,Moisturizes skin and helps maintain hydration
+Zea Mays (Corn) Starch,1,Absorbs moisture and improves texture
+Sodium Glycinate,1,Mild surfactant; gentle on skin
+Lauric Acid,2,Fatty acid with cleansing and antimicrobial properties
+Sodium Chloride,2,Thickener; excess amounts may cause dryness
+Sodium Carbonate,2,pH regulator; can be drying in high concentrations
+Sodium Sulfate,2,Processing aid; low direct skin impact
+Carbomer,3,Thickening agent; generally safe for topical use
+PEG-45M,3,Thickener; generally safe but increases penetration
+Sodium Ascorbyl Phosphate,2,Vitamin C derivative; antioxidant benefits
+Vitamin E Acetate,2,Antioxidant that protects skin from damage
+Pyridoxine HCL,2,Vitamin B6 derivative; supports skin metabolism
+Niacinamide,2,Improves skin barrier and reduces irritation
+VP/VA Copolymer,4,Film-forming polymer; low toxicity
+Tetrasodium EDTA,4,Chelating agent; may increase chemical penetration
+Tetrasodium Etidronate,4,Chelating agent; low toxicity
+Sodium Palmate,5,Soap base; can be drying to skin
+Sodium Palm Kernelate,5,Cleansing agent; may disrupt skin barrier
+Sodium C14-C18 Olefin Sulfonate,7,Harsh surfactant; high irritation potential
+Sodium Lauryl Sulfate,9,Strong surfactant; high risk of irritation
+Fragrance,8,Common allergen; may cause skin sensitization
+Silver Oxide,6,Antimicrobial agent; may irritate sensitive skin
+Thymol,6,Antimicrobial compound; may cause irritation
+Terpineol,6,Fragrance component; potential skin sensitizer
+Amyl Cinnamal,7,Fragrance allergen; may cause skin reactions
+Citral,7,Fragrance allergen; sensitization risk
+Geraniol,7,Fragrance allergen; skin irritation potential
+Limonene,7,Fragrance allergen; oxidizes and irritates skin
+Linalool,7,Fragrance allergen; sensitization risk
+CI 12490,5,Synthetic dye; low toxicity but allergy risk
+CI 11680,5,Artificial colorant; may irritate sensitive skin
+Water,1,Safe solvent and base ingredient
+Glycerin,1,Moisturizes skin and helps maintain hydration
+Zea Mays (Corn) Starch,1,Absorbs moisture and improves product texture
+Milk Lipids,1,Nourish skin and support moisture barrier
+Sericin,1,Silk protein that smooths and conditions skin
+Lauric Acid,2,Fatty acid with cleansing and antimicrobial properties
+Sodium Chloride,2,Thickener; excess amounts may dry skin
+Sodium Sulfate,2,Processing aid; low skin impact
+Tocopheryl Acetate,2,Antioxidant that protects skin cells
+Sodium Ascorbyl Phosphate,2,Vitamin C derivative; antioxidant benefits
+Hydroxystearic Acid,2,Fatty acid derivative; stabilizes formulations
+Titanium Dioxide,3,Colorant and UV filter; safe in topical use
+PEG-8,3,Solvent and humectant; low irritation risk
+PEG-45M,3,Thickener; generally safe but increases penetration
+Polysorbate 20,3,Emulsifier; low toxicity
+Carbomer,3,Thickening agent; safe for topical application
+PEG-40 Hydrogenated Castor Oil,4,Emulsifier; may irritate sensitive skin
+Tetrasodium EDTA,4,Chelating agent; can increase absorption
+Tetrasodium Etidronate,4,Chelating agent; low toxicity
+Sodium Palmate,5,Soap base; can be drying
+Sodium Palm Kernelate,5,Cleansing agent; may disrupt skin barrier
+Sodium Lauryl Sulfate,9,Strong surfactant; high irritation risk
+Sodium C14-C18 Olefin Sulfonate,7,Harsh surfactant; high irritation potential
+Perfume (Fragrance),8,Common allergen; may cause skin sensitization
+Sandalwood Oil,6,Fragrance oil; may cause irritation
+Prunus Amygdalus Dulcis (Sweet Almond) Oil,2,Emollient that nourishes and softens skin
+Rosa Gallica Flower Extract,3,Botanical extract with soothing properties
+Cymbopogon Martini Oil,6,Essential oil; skin sensitization risk
+Jasminum Officinale (Jasmine) Flower Extract,3,Fragrance extract; low irritation risk
+Nelumbium Speciosum Flower Oil,3,Botanical oil; mild skin conditioning
+Mentha Arvensis Leaf Oil,6,Cooling oil; may irritate sensitive skin
+Alpha-Isomethyl Ionone,7,Fragrance allergen; sensitization risk
+Citronellol,7,Fragrance allergen; skin irritation risk
+Eugenol,7,Fragrance allergen; may cause dermatitis
+Geraniol,7,Fragrance allergen; skin sensitization risk
+Hexyl Cinnamal,7,Fragrance allergen; irritation potential
+Linalool,7,Fragrance allergen; oxidizes and irritates skin
+CI 12490,5,Synthetic dye; low toxicity but allergy risk
+CI 11680,5,Artificial colorant; may irritate sensitive skin
+Aqua (Water),1,Completely safe solvent used as a base ingredient.
+Glycerin,2,Moisturizes skin and helps maintain the skin barrier.
+Sodium Chloride,3,Safe in small amounts; excessive use may cause dryness.
+Etidronic Acid,3,Chelating agent; generally safe at cosmetic concentrations.
+Disodium Etidronate,3,Prevents mineral buildup; low toxicity to skin.
+Sodium Palmate,4,Soap base; can dry skin with frequent use.
+Sodium Palm Kernelate,4,Cleansing agent; may strip natural skin oils.
+Tetrasodium EDTA,4,Chelating agent; low skin toxicity but environmentally persistent.
+Talc,5,Safe topically; inhalation risk if airborne.
+Climbazole,6,Antifungal agent; prolonged use may irritate sensitive skin.
+Parfum (Fragrance),7,Common allergen; may cause irritation and headaches.
+Limonene,7,Fragrance compound; oxidized form causes skin irritation.
+CI 21100,8,Synthetic dye; potential allergenic reactions.
+CI 11680,8,Artificial colorant; may cause skin sensitivity.
+CI 12490,8,Synthetic dye; linked to allergic reactions in some users.
+Water,1,Completely safe base solvent with no known adverse effects.
+Glycerin,2,Hydrates skin and helps maintain the skin barrier.
+Stearic Acid,2,Fatty acid that conditions skin and improves texture.
+Lauric Acid,2,Natural fatty acid with mild antibacterial properties.
+Sodium Cocoyl Isethionate,3,Very mild cleanser suitable for sensitive skin.
+Sodium Isethionate,3,Gentle surfactant with low irritation potential.
+Citric Acid,3,pH adjuster; safe at cosmetic usage levels.
+Sodium Chloride,3,Safe in small amounts; excessive use may cause dryness.
+Zinc Oxide,3,Skin protectant; soothing and non-toxic.
+Sodium Palmitate,4,Soap base; may dry skin with frequent use.
+Sodium Palm Kernelate,4,Cleansing agent that can strip natural oils.
+Sodium Stearate,4,Soap surfactant; mildly drying.
+Cocamidopropyl Betaine,4,Mild surfactant; rare allergic reactions reported.
+Tetrasodium EDTA,4,Chelating agent; low skin toxicity but persistent.
+Tetrasodium Etidronate,4,Stabilizer; minimal health risk in cosmetics.
+Titanium Dioxide,5,Safe topically; concern mainly when inhaled.
+Perfume (Fragrance),7,Common allergen; may cause irritation and sensitivity.
+Water,1,Completely safe base solvent with no health risks.
+Sorbitol,2,Humectant that helps retain skin moisture.
+Glycerine,2,Moisturizes skin and supports barrier function.
+Sodium Chloride,3,Safe in small amounts; excessive use may dry skin.
+Sodium Stearate,3,Soap surfactant; mildly drying with frequent use.
+Sodium Palmate,4,Soap base; can strip natural skin oils.
+Sodium Palm Kernelate,4,Cleansing agent; may cause dryness on regular use.
+Tetrasodium Etidronate,4,Chelating agent; stabilizes formula with low toxicity.
+Tetrasodium EDTA,4,Chelating agent; low skin toxicity but persistent.
+Sodium Rosinate,5,Resin-based surfactant; may cause skin sensitivity.
+Propylene Glycol,5,Humectant; may irritate sensitive skin.
+PEG-4,5,Solubilizer; increases skin permeability.
+Sodium Metabisulfite,6,Preservative; may trigger allergic reactions.
+Isopropyl Alcohol,7,Drying and irritating to skin.
+Sodium Lauryl Sulfate,7,Harsh surfactant; strips oils and irritates skin.
+Perfume (Fragrance),7,Common allergen; can cause irritation and headaches.
+Limonene,7,Fragrance compound; oxidized form irritates skin.
+Linalool,7,Fragrance allergen; may cause skin sensitivity.
+CI 12490,7,Synthetic dye; allergenic potential.
+CI 47005,7,Artificial colorant; may cause skin reactions.
+Cinnamal,8,Strong fragrance allergen linked to dermatitis.
+Eugenol,8,Fragrance compound; known skin sensitizer.
+BHT,8,Antioxidant with potential endocrine disruption concerns.
+Water,1,Safe solvent used as the base of the formulation.
+Sorbitol,2,Humectant that prevents drying and improves texture.
+Xanthan Gum,2,Natural thickener; safe and non-irritating.
+Cellulose Gum,2,Stabilizer that improves consistency with low toxicity.
+Arginine,2,Amino acid that supports enamel repair and oral health.
+Sodium Bicarbonate,2,Mild abrasive; helps neutralize acids safely.
+Calcium Carbonate,3,Mild abrasive; safe for enamel at controlled levels.
+Hydrated Silica,3,Gentle polishing agent for teeth.
+Sodium Saccharin,3,Non-nutritive sweetener; safe in toothpaste amounts.
+Sodium Monofluorophosphate,4,Fluoride source; strengthens enamel when used correctly.
+Potassium Nitrate,4,Reduces tooth sensitivity; safe at regulated levels.
+Titanium Dioxide,5,"Whitening pigment; safe topically, ingestion concerns minimal."
+Sodium Silicate,5,Binder; may irritate tissues at high concentrations.
+Benzyl Alcohol,6,Preservative; may cause irritation in sensitive users.
+Sodium Lauryl Sulfate,7,Foaming agent; can irritate oral tissues.
+Flavor,7,Generic flavoring; may cause sensitivity reactions.
+Limonene,7,Flavor allergen; oxidized form causes irritation.
+Eugenol,8,Strong flavor allergen; can irritate oral tissues.
+Water,1,Safe base solvent with no adverse health effects.
+Sorbitol,2,Humectant that prevents drying and improves mouthfeel.
+Cellulose Gum,2,Thickener that stabilizes the formulation safely.
+Calcium Carbonate,3,Mild abrasive; safe for enamel at controlled levels.
+Hydrated Silica,3,Gentle polishing agent for cleaning teeth.
+Sodium Saccharin,3,Non-caloric sweetener; safe in toothpaste quantities.
+Potassium Nitrate,4,Helps reduce tooth sensitivity when used correctly.
+Sodium Monofluorophosphate,4,Fluoride source that strengthens enamel.
+Kaolin,4,Mild abrasive clay; low toxicity in oral care.
+Sodium Silicate,5,Binder; may irritate oral tissues in high amounts.
+Benzyl Alcohol,6,Preservative; may cause irritation in sensitive users.
+Sodium Lauryl Sulphate,7,Foaming agent; known to irritate gums and oral tissues.
+Flavor,7,Flavoring agents; may trigger sensitivity reactions.
+Limonene,7,Flavor allergen; oxidized form causes irritation.
+Cetylpyridinium Chloride,8,Antibacterial agent; may cause staining and irritation.
+CI 45430,8,Synthetic dye; potential allergenic reactions.
+Purified Aqua (Water),1,Safe base solvent with no known health risks.
+Purified Stevia Extract,1,Natural sweetener; safe in small oral-care amounts.
+Salt,2,Natural mineral; safe in low concentrations.
+Natural Glycolipids,2,Mild surfactants; skin and oral-tissue friendly.
+Bentonite Earth (Calcium Bentonite),3,Natural clay; safe topically but abrasive in excess.
+Orange Extract,3,Natural extract; provides flavor and antioxidants.
+Grapefruit Seed Extract,3,Natural preservative; generally safe in low doses.
+Peppermint Essential Oil,4,Flavoring oil; may irritate sensitive tissues.
+Menthol,4,Cooling agent; safe but irritating at higher levels.
+Tea Tree Oil,5,Antimicrobial oil; can cause irritation if overused.
+Cocoa Solids,2,Rich in antioxidants; beneficial when consumed in moderation.
+Cocoa Butter,2,Natural fat; generally safe but calorie-dense.
+Peanuts,2,Protein-rich; safe for most but allergenic for some individuals.
+Milk Solids,3,Provides calcium and protein; lactose intolerance possible.
+Soy Lecithin (E322),3,Emulsifier; generally safe and well-tolerated.
+Iodized Salt,3,Essential mineral; excessive intake affects blood pressure.
+Ethyl Vanillin,4,Artificial flavor; safe in low food-grade quantities.
+Glucose Syrup,6,Refined sugar; spikes blood sugar levels.
+Dextrose,6,Simple sugar; rapid increase in blood glucose.
+Sugar,7,Excess consumption linked to obesity and diabetes.
+Hydrogenated Vegetable Oil (Palm Oil),8,Contains unhealthy fats; linked to heart disease risk.
+Yeast,1,Natural leavening agent; safe and beneficial for digestion.
+Cocoa Solids,2,Contains antioxidants; beneficial when consumed in moderation.
+Milk Solids,3,Provides calcium and protein; may affect lactose-intolerant individuals.
+Soya Lecithin (Emulsifier),3,Food emulsifier; generally safe and well tolerated.
+Iodised Salt,3,Essential mineral; excessive intake may affect blood pressure.
+Raising Agent (500(ii)),3,Baking soda; safe leavening agent at food-grade levels.
+Flour Treatment Agent (516),3,Stabilizer; approved food additive with low toxicity.
+Nature-Identical Flavouring Substance,4,Chemically identical to natural flavors; safe in small amounts.
+Artificial Vanilla Flavouring,5,Synthetic flavor; may cause sensitivity in some individuals.
+Refined Wheat Flour (Maida),6,Highly refined carb; low nutrition and blood sugar spikes.
+Fractionated Vegetable Fat,7,Processed fat; excessive intake linked to metabolic issues.
+Sugar,7,"High intake linked to obesity, diabetes, and dental issues."
+Hydrogenated Vegetable Fats,9,Contains trans fats; increases heart disease risk.
+Cocoa Beans,1,Rich in antioxidants; beneficial for heart and brain health when consumed moderately.
+Cocoa Butter,2,Natural fat; generally safe but calorie-dense.
+A2 Milk Powder,3,Source of protein and calcium; easier to digest for some individuals.
+Khandsari Sugar,5,Less refined sugar; still raises blood glucose when consumed in excess.
+Rice Meal,2,Easily digestible carbohydrate; safe when consumed moderately.
+Corn Meal,2,Provides energy and fiber; generally safe.
+Gram Meal,2,Protein-rich legume flour; supports digestion and satiety.
+Spices & Condiments (Mixed),2,Natural spices; aid digestion and provide antioxidants.
+Turmeric Powder,1,Anti-inflammatory spice with health benefits.
+Coriander Seed Powder,1,Aids digestion and supports gut health.
+Ginger Powder,1,Helps digestion and reduces inflammation.
+Garlic Powder,1,Supports immunity and heart health.
+Black Pepper Powder,1,Enhances nutrient absorption and digestion.
+Fenugreek Leaf Powder,1,Helps regulate blood sugar levels.
+Salt,3,Essential mineral; excessive intake may raise blood pressure.
+Black Salt,3,Mineral salt; excess intake may affect blood pressure.
+Tomato Powder,3,Provides antioxidants; safe in food quantities.
+Milk Solids,3,Source of protein and calcium; lactose intolerance possible.
+Citric Acid (INS 330),3,Food acidulant; safe at approved levels.
+Tartaric Acid (INS 334),3,Acidity regulator; safe in food use.
+Sugar,6,Excess intake linked to obesity and blood sugar spikes.
+Dextrose,6,Simple sugar; rapidly increases blood glucose.
+Edible Vegetable Oil,7,High-fat content; excessive intake linked to metabolic issues.
+Ragi Flour,1,"Rich in fiber, calcium, and iron; supports digestion and bone health."
+Tapioca Starch,2,Easily digestible carbohydrate; safe in moderate amounts.
+Selected Spices,2,Natural spices; aid digestion and provide antioxidants.
+Red Chilli,3,Adds flavor; excessive intake may irritate the stomach.
+Salt,3,Essential mineral; excess intake may increase blood pressure.
+Edible Sunflower Oil,4,Unsaturated fat; safe but calorie-dense when overused.
+Beetroot,1,Rich in antioxidants and nitrates; supports heart health.
+Rice Bran Oil,3,Contains healthy fats; beneficial in moderation.
+Himalayan Rock Salt,3,Mineral salt; excess intake may increase blood pressure.
+Almond,2,"Rich in healthy fats, protein, and micronutrients."
+Rolled Oats,2,Whole grain; supports digestion and heart health.
+Natural Cereal Fibre (Oats),2,Improves gut health and satiety.
+Inulin,2,Prebiotic fiber; supports gut bacteria.
+Milk Solids,3,Provides protein and calcium; lactose intolerance possible.
+Edible Common Salt,3,Essential mineral; excess intake raises blood pressure.
+"Raising Agents (503(ii), 500(ii), 450(i))",3,Food leavening agents; safe at approved levels.
+Emulsifier E322 (Soy Lecithin),3,Common food emulsifier; generally safe.
+Emulsifier E412 (Guar Gum),3,Natural thickener; aids digestion in small amounts.
+Emulsifier E471,4,Fatty acid mono- and diglycerides; safe but processed.
+Emulsifier E472,4,Emulsified fatty acids; moderate processing risk.
+Maltitol (E965),4,Sugar alcohol; low-glycemic but may cause bloating.
+Maltodextrin,5,Highly processed carb; spikes blood sugar.
+Sweetener E955 (Sucralose),5,Artificial sweetener; may affect gut microbiome.
+Refined Wheat Flour (Maida),6,Highly refined carb; low nutrition and glucose spikes.
+Edible Vegetable Oil (Palm),7,High saturated fat; linked to heart disease risk.
+Dough Conditioner E223,7,Sulfite compound; may trigger allergic reactions.
+Foxtail Millet,1,High in fiber and minerals; supports digestion and glucose control.
+Sorghum,1,Gluten-free whole grain; rich in antioxidants and fiber.
+Little Millet,1,Low glycemic index; good for gut and metabolic health.
+Pearl Millet,1,Rich in iron and magnesium; supports heart health.
+Pumpkin Seeds,1,"Excellent source of healthy fats, zinc, and antioxidants."
+Cumin Seeds (Jeera),1,Aids digestion and has anti-inflammatory properties.
+Carrom Seeds (Ajwain),1,Supports digestion; helps relieve bloating and acidity.
+Almonds,2,Rich in healthy fats and vitamin E; supports heart health.
+Cashewnuts,2,Provides healthy fats and minerals; calorie-dense if overconsumed.
+Organic Jaggery,3,Natural sweetener; retains minerals but still raises blood sugar.
+Sago,4,High-carb and low-fiber; provides energy but low nutrition.
+Himalayan Pink Salt,3,Mineral salt; excessive intake may raise blood pressure.
+Butter,5,High in saturated fat; safe in moderation but calorie-dense.
+Coconut,2,"Provides healthy fats, supports heart health in moderation."
+Jowar (Sorghum),2,"High in fiber, aids digestion and controls blood sugar."
+Jau (Barley),2,Rich in fiber and vitamins; helps reduce cholesterol.
+Rock Salt,3,Contains minerals; excessive intake may raise blood pressure.
+Jaggery Powder,4,Natural sweetener; provides energy but high intake may affect blood sugar.
+Zero Transfat Butter,5,Contains fats; safer than regular butter but still adds calories.
+Raising Agent,6,"Chemical leavening; generally safe in small amounts, excessive may cause digestive discomfort."

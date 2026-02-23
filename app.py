@@ -88,7 +88,7 @@ def health():
 @app.route("/predict", methods=["POST"])
 def predict():
     """
-    POST body (JSON):
+    POST body (JSON or URL-encoded):
     {
         "ingredients": ["Water", "Parabens", "Unknown Chemical X"]
     }
@@ -96,8 +96,21 @@ def predict():
     Returns analysis results.
     """
     try:
-        data = request.get_json(force=True)
-        ingredients_raw = data.get("ingredients", [])
+        # Handle both JSON and URL-encoded formats
+        content_type = request.headers.get('Content-Type', '')
+        
+        if 'application/json' in content_type:
+            data = request.get_json(force=True)
+            ingredients_raw = data.get("ingredients", [])
+        elif 'application/x-www-form-urlencoded' in content_type:
+            # Parse URL-encoded data
+            ingredients_str = request.form.get('ingredients', '[]')
+            import json
+            ingredients_raw = json.loads(ingredients_str)
+        else:
+            # Try to parse as JSON anyway
+            data = request.get_json(force=True)
+            ingredients_raw = data.get("ingredients", []) if data else []
 
         if not ingredients_raw:
             return jsonify({"error": "No ingredients provided"}), 400
